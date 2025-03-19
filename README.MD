@@ -17,7 +17,6 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - JavaScript
 - Git e GitHub
 
-CRIE UM COMMIT DESTA SEÇÃO E FAçA UM PUSH!!!
 ## 🎯 Objetivo
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
